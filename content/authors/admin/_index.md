@@ -14,7 +14,7 @@ role: Research Fellow and GIS Specialist
 
 # Organizations/Affiliations
 organizations:
-- name: Koc University
+- name: Koç University
   url: "https://urbanoccupations.ku.edu.tr"
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,11 +30,11 @@ education:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
-  - course: MA in Archaeology and Cultural Heritage
-    institution: Koc University
+  - course: MA in Archaeology and Cultural Heritage Managment
+    institution: Koç University
     year: 2018
   - course: BA in Archaeology with a specialisation in GIS and Remote Sensing techniques
-    institution: Koc University
+    institution: Koç University
     year: 2015
 
 # Social/Academic Networking
@@ -69,8 +69,8 @@ user_groups:
 - Visitors
 ---
 
-Hello and welcome to my personal website! Here you can find more information about my ongoing Historical and Archaeological research. Having completed my graduate studies in Istanbul at Koc Unversity, I became interested and gained more experience on Turkey's rich history and archaeology, from modern times to the Neolithic. 
+Hello and welcome to my personal website! Here you can find more information about my ongoing historical and archaeological research. Having completed my graduate studies in Istanbul at Koç Unversity, I became interested and gained more experience on Turkey's rich history and archaeology, from modern times to the Neolithic. 
 
-I have a broad interest in geospatial and computational applications in the fields of History, Cultural Heritage and archaeology. I was first introduced to geospatial applications for humanities, during my undergraduate at the Vrije Universiteit and Wageningen University in the Netherlands. Since then, I have broadened my horizon in several other History and Archaeological research projects ever since. 
+I have a broad interest in geospatial and computational applications in history, cultural heritage management and archaeology. I was first introduced to geospatial applications for humanities, during my undergraduate at the Vrije Universiteit and Wageningen University in the Netherlands. Since then, I have broadened and diversified my horizon in several research projects. 
 
 Most recently, I have been employed as a full-time Research Fellow and lead GIS Coordinator in a ERC-Funded Horizon 2020 Research Project, UrbanOccupationsOETR at Koç University. Here,  my ongoing research is aimed at projects that incorporate Computer Vision/Machine Learning for feature extraction of Historical Maps, Network Analysis and the use of geospatial mobile applications for academic outreach activities. 
