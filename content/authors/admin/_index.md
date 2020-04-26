@@ -69,8 +69,9 @@ user_groups:
 - Visitors
 ---
 
-Hello and welcome to my personal website! Here you can find more information about my ongoing historical and archaeological research. Having completed my graduate studies in Istanbul at Koç Unversity, I became interested and gained more experience on Turkey's rich history and archaeology, from modern times to the Neolithic. 
+Hello and welcome to my personal website! Here you can find more information about my ongoing academic research. 
+I have a broad interest in geospatial and computational applications in history, cultural heritage management and archaeology. 
 
-I have a broad interest in geospatial and computational applications in history, cultural heritage management and archaeology. My first introduction to geospatial applications for humanities was in 2011, during my undergraduate at the Vrije Universiteit and Wageningen University in the Netherlands. Since then, I have broadened and diversified my skills and interests in several research projects. 
+My first introduction to geospatial applications for humanities was in 2011, during my undergraduate at the Vrije Universiteit and Wageningen University in the Netherlands. Since then, I have broadened and diversified my skills and interests in several research projects. Having completed my graduate studies in Istanbul at Koç Unversity, I became interested and gained more experience on Turkey's rich history and archaeology, from modern times to the Neolithic. 
 
 Most recently, I have been employed as a full-time Research Fellow and lead GIS Coordinator in a ERC-Funded Horizon 2020 Research Project, UrbanOccupationsOETR at Koç University. Here,  my ongoing research is aimed at projects that incorporate Computer Vision/Machine Learning for feature extraction of Historical Maps, Network Analysis and the use of geospatial mobile applications for academic outreach activities. 

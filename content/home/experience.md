@@ -32,21 +32,21 @@ date_format = "Jan 2006"
   * Analysing and extracting spatial data
   """
 [[experience]]
-  title = "Graduate MA"
+  title = "Master of Arts"
   company = "Koç University"
   company_url = ""
   location = "Istanbul"
   date_start = "2015-09-01"
   date_end = "2018-08-01"
-  description = """Master degree in Archaeology and Cultural heritage Management."""
+  description = """Master Graduate degree in Archaeology and Cultural heritage Management."""
 
 [[experience]]
-  title = "Undergraduate BA"
+  title = "Bachelor of Arts"
   company = "Vrije Universiteit"
   company_url = ""
   location = "Amsterdam"
   date_start = "2011-09-01"
   date_end = "2015-07-31"
-  description = """Bachelor degree in (Landscape) Archaeology, with a specialistaion in GIS and Remote Sensing"""
+  description = """Bachelor Graduate degree in (landscape) Archaeology, with a specialistaion in GIS and Remote Sensing"""
 
 +++
