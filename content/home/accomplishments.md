@@ -27,7 +27,17 @@ date_format = "Jan 2006"
   date_start = "2020-04-06"
   date_end = "2020-04-30"
   description = ""
- 
+
+ [[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com"
+  title = "Using Open Source Tools to Create an Enterprise GIS"
+  url = "https://www.udemy.com/certificate/UC-37S1G18N/"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-04-01"
+  date_end = "2018-04-01"
+  description = ""
+
 [[item]]
   organization = "National GIS Minor"
   organization_url = "https://nationalegiminor.wordpress.com"
