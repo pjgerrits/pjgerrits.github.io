@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Hello and welcome to my personal website! Here you can find more information about my ongoing Historical and Archaeological research. I am primarily interested in geospatial and computational applications in the fields of History, Cultural Heritage and archaeology. Research I am involved in are aimed at the use of Computer Vision/Machine Learning of Historical Maps, Network Analysis and the use of geospatial Mobile applications for academic outreach activities. 
+Hello and welcome to my personal website! Here you can find more information about my ongoing Historical and Archaeological research. Having completed my graduate studies in Istanbul at Koc Unversity, I became interested and gained more experience on Turkey's rich history and archaeology, from modern times to the Neolithic. 
 
-I was first introduced to geospatial applications for humanities, during my undergraduate and graduate studies in archaeology. Since then, I have broadened my horizon in several other History and Archaeological research projects ever since. Most recently, I have been employed as a full-time Research Fellow and lead GIS Coordinator in a ERC-Funded Horizon 2020 Research Project, UrbanOccupationsOETR at Koç University.
+I have a broad interest in geospatial and computational applications in the fields of History, Cultural Heritage and archaeology. I was first introduced to geospatial applications for humanities, during my undergraduate at the Vrije Universiteit and Wageningen University in the Netherlands. Since then, I have broadened my horizon in several other History and Archaeological research projects ever since. 
+
+Most recently, I have been employed as a full-time Research Fellow and lead GIS Coordinator in a ERC-Funded Horizon 2020 Research Project, UrbanOccupationsOETR at Koç University. Here,  my ongoing research is aimed at projects that incorporate Computer Vision/Machine Learning for feature extraction of Historical Maps, Network Analysis and the use of geospatial mobile applications for academic outreach activities. 
