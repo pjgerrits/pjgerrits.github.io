@@ -22,21 +22,32 @@ date_format = "Jan 2006"
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
-  url = ""
+  url = "https://towardsdatascience.com/course-review-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-5ef1a85042b2"
   certificate_url = "https://www.coursera.org"
   date_start = "2020-04-06"
   date_end = "2020-04-30"
   description = ""
 
- [[item]]
+[[item]]
   organization = "Udemy"
   organization_url = "https://www.udemy.com"
   title = "Using Open Source Tools to Create an Enterprise GIS"
-  url = "https://www.udemy.com/certificate/UC-37S1G18N/"
-  certificate_url = "https://www.coursera.org"
+  url = "https://www.udemy.com/course/enterprise-gis/"
+  certificate_url = "https://www.udemy.com/certificate/UC-37S1G18N/"
   date_start = "2018-04-01"
   date_end = "2018-04-01"
   description = ""
+
+[[item]]
+  organization = "ESRI ArcGIS Pro"
+  organization_url = "https://www.arcgis.com"
+  title = "Distance Analysis Using ArcGIS"
+  url = "https://www.esri.com/training/catalog/57630433851d31e02a43eee1/distance-analysis-using-arcgis-pro/"
+  certificate_url = "https://1drv.ms/b/s!AjuyU3UoYqQsgYJXfR7DKS6sX8g7Cg"
+  date_start = "2019-03-01"
+  date_end = "2019-04-19"
+  description = ""
+ 
 
 [[item]]
   organization = "National GIS Minor"
