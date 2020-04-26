@@ -39,7 +39,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -68,3 +68,26 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+September 2019 Gerrits, ENCHOS III - Workshop, Automatic feature extraction and geographical information retrieval from historical maps, Istanbul 2019.
+
+September 2019 Kabadayı, Gerrits, ENCHOS III - Workshop Comparing changes in composition of agricultural produce in two regions of Bulgaria, 1840-1897 using a GIS-sampling model, Istanbul 2019.
+
+September 2019 Gerrits, Alvarez-Palau, ENCHOS III - Workshop, A geo-spatial multi-modal transport network for Southeast Europe in the late 19th century, Istanbul 2019.
+
+July 2019 Kabadayı, Gerrits, Digital Humanities 2019: “Complexities”. Poster: A Geo-
+Sampling Model to Analyse Micro Level Historical Agricultural Production Data for Mid-19th Century Southeast European and Anatolian Regions. Utrecht, 2019.
+
+June 2019 Kabadayı, Gerrits, Boykov, UCGIS 2019 Symposium. Presenter: The Geospatial Humanities: Transdisciplinary Opportunities for the GIScience Community. Bridging the gap between pre-census and census era historical data: Devising a geo-sampling model to analyse agricultural production in the long-run for Southeast Europe and Anatolia. Washington, 2019.
+
+March 2019 Kabadayi, Gerrits, Maps in Libraries. First International GeoPortOst Workshop. Leibniz‐Institute for East and Southeast European Studies (IOS), Geo‐Spatial‐Mining of Historical Maps and Texts: Comparing 16th c. Ottoman military logistics with 19th c. transport infrastructure in Southeast Europe, Regensburg, 2019.
+
+April 2018 Gerrits, Özkan, Çetin, ‘Comparing Transport Networks, Geographies of Political and Economic Organisation in England/Wales, France and in the Ottoman Empire 1600-1900. ESSHC Development of maritime trade networks in the Eastern Mediterranean and their hinterlands, Belfast, 2018.
+
+November 2017 Kabadayi, Gerrits, Koçak, Özkan, Spatial webs. Koç University, Research Center for Anatolian Civilizations International Annual Symposium: A Geo-Spatial, Multi-Modal Ottoman Transport Network in 1899. Istanbul, 2017.
+
+September 2017 Gerrits P. Geographic Information Systems (GIS) as an opportunity and a challenge for digital history. Herder Institute, Mapping and Geo-Spatially Analyzing Economic and Population Geography of mid-nineteenth century Bursa. Marburg, 2017.
+
+May 2017 Gerrits, P. Brave New Worlds: Digital Technologies & the Study of the Past in Anatolia, the Mediterranean, and the Near East. Koç University Graduate Symposium. Usage of GIS in Neolithic Anatolia: An intra-settlement analysis of use and abandonment phases at Barcin Höyük. Istanbul, 2017.
+
+December 2016 Gerrits, P. Barcin Höyük excavation symposium. Overview of the Barcin Höyük AIS (Archaeological Information System; contributions from 2013 to 2016). Istanbul, 2016.

@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+    tag = "Archaeology"
+    category = "Academic"
+    publication_type = "Article"
+    author = "Gerrits"
     exclude_featured = false
   
 [design]
@@ -46,18 +46,18 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "DeepSkyBlue"
+  gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -66,6 +66,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+2020 - Kabadayı, Gerrits, Boykov, Bridging the gap between pre-census and census era historical data: Devising a geo-sampling model to analyse agricultural production in the long-run for Southeast Europe and Anatolia. UCGIS symposium 2019 Conference Proceedings. International Journal of Humanities and Arts Computing (IJHAC), 2020
+
+2019 - Kabadayi, Gerrits, Koçak, Özkan, ‘A Geo-Spatial, Multi-Modal Ottoman Transport Network in 1899,’ in Chris Roosevelt ed., 12th Koç University, Research Center for Anatolian Civilizations International Annual Symposium: Spatial Webs Proceedings, Istanbul, 2018.
+
+2019 - Gerritsen, Özbal, Gerrits, A Red Floor at Neolithic Barcın Höyük: Special or Not?
 
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
