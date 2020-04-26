@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:pgerrits15@ku.edu.tr"  # For a direct email link, use "mailto:test@example.org".
 - icon: academia
   icon_pack: ai
   link: https://ku.academia.edu/PJGerrits
