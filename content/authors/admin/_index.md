@@ -31,10 +31,10 @@ education:
   #   institution: Stanford University
   #   year: 2012
   - course: MA in Archaeology and Cultural Heritage Managment
-    institution: Koç University
+    institution: Koç University, Istanbul
     year: 2018
   - course: BA in Archaeology with a specialisation in GIS and Remote Sensing techniques
-    institution: Koç University
+    institution: Vrije Universiteit, Amsterdam
     year: 2015
 
 # Social/Academic Networking
