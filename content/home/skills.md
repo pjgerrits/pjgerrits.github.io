@@ -15,21 +15,30 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL Database Managment"
+
+  
+[[feature]]
+  icon = "globe-europe"
+  icon_pack = "fas"
+  name = "Geographic Information Systems: ArcGIS / QGIS"
+  
+[[feature]]
+  icon = "windows"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Windows / Microsoft Office"
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "language"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Dutch, English, German, Turkish"
+
 
 +++

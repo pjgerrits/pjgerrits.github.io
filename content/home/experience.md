@@ -27,18 +27,26 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Database Management
+  * Training members in the use of GIS software and applicaitons
+  * Analysing and extracting spatial data
   """
+[[experience]]
+  title = "Graduate MA"
+  company = "Koç University"
+  company_url = ""
+  location = "Istanbul"
+  date_start = "2015-09-01"
+  date_end = "2018-08-01"
+  description = """Master degree in Archaeology and Cultural heritage Management."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Undergraduate BA"
+  company = "Vrije Universiteit"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Amsterdam"
+  date_start = "2011-09-01"
+  date_end = "2015-07-31"
+  description = """Bachelor degree in (Landscape) Archaeology, with a specialistaion in GIS and Remote Sensing"""
 
 +++
