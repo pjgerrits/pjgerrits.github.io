@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Recent & Upcoming Conference Talks"
 subtitle = ""
 
 [content]
@@ -92,7 +92,7 @@ Sampling Model to Analyse Micro Level Historical Agricultural Production Data fo
 
 * *December 2016* - <u>**Gerrits**</u> Barcin Höyük excavation symposium. Overview of the Barcin Höyük AIS (Archaeological Information System; contributions from 2013 to 2016). Istanbul, 2016. 
 
-<iframe allowfullscreen="true" width="800" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.arcgis.com/apps/CEWebViewer/viewer.html?&3dWebScene=2b3c7956e69146e08f2308e0df4732e1&view=466135.14,1399.97,-4459506.65,466135.17,2114.89,-4459505.41,0.96&lyr=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1&wkid=2320&v=2&reducedUI"></iframe>
+<iframe allowfullscreen="true" width=80% height=25% frameborder="1" scrolling="no" marginheight="0" marginwidth="0" src="https://www.arcgis.com/apps/CEWebViewer/viewer.html?&3dWebScene=2b3c7956e69146e08f2308e0df4732e1&view=466135.14,1399.97,-4459506.65,466135.17,2114.89,-4459505.41,0.96&lyr=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1&wkid=2320&v=2&reducedUI"></iframe>
 
 <figcaption>
 This is a 2.5D Model of the excavation I created for the Barcin Höyük excavation symposium in 2016. It is created based on all top and bottom elevations of excavated contexts, during 7 years of the project. The model was created by using ArcScene, CityEngine Webviewer and runs on OpenGL. Open the full viewer for better controls and guidelines.</figcaption>
