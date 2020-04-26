@@ -42,9 +42,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:pgerrits15@ku.edu.tr"  # For a direct email link, use "mailto:test@example.org".
 - icon: academia
   icon_pack: ai
   link: https://ku.academia.edu/PJGerrits
@@ -59,7 +56,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:pgerrits15@ku.edu.tr"  # For a direct email link, use "mailto:test@example.org".
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
