@@ -70,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hello and welcome to my personal website. I am interested in a wide range of digital and geospatial methods in the fields of History, Cultural Heritage  and archaeology. I was first introduced to geospatial studies during my undergraduate and graduate studies in archaeology and have been broadening my horizon in several research projects ever since. Currently I am working as a full-time member in the UrbanOccupationsOETR ERC-Funded Research Project at Koç University.
+Hello and welcome to my personal website! Here you can find more information about my ongoing Historical and Archaeological research. I am primarily interested in geospatial and computational applications in the fields of History, Cultural Heritage and archaeology. Research I am involved in are aimed at the use of Computer Vision/Machine Learning of Historical Maps, Network Analysis and the use of geospatial Mobile applications for academic outreach activities. 
+
+I was first introduced to geospatial applications for humanities, during my undergraduate and graduate studies in archaeology. Since then, I have broadened my horizon in several other History and Archaeological research projects ever since. Most recently, I have been employed as a full-time Research Fellow and lead GIS Coordinator in a ERC-Funded Horizon 2020 Research Project, UrbanOccupationsOETR at Koç University.
