@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Petrus Johannes Gerrits
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Fellow and GIS Specialist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Koc University
+  url: "https://urbanoccupations.ku.edu.tr"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Geospatial applications in Humanities
+- Computational Methods in Archaeology and History
+- Spatial Information Retrieval
 
 education:
   courses:
