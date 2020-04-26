@@ -15,7 +15,7 @@ role: Research Fellow and GIS Specialist
 # Organizations/Affiliations
 organizations:
 - name: Koç University
-  url: "https://urbanoccupations.ku.edu.tr"
+  url: "https://www.ku.edu.tr/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
