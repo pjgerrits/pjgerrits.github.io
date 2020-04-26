@@ -47,6 +47,6 @@ date_format = "Jan 2006"
   location = "Amsterdam"
   date_start = "2011-09-01"
   date_end = "2015-07-31"
-  description = """Bachelor Graduate degree in (landscape) Archaeology, with a specialistaion in GIS and Remote Sensing"""
+  description = """Bachelor Undergraduate degree in (landscape) Archaeology, with a specialistaion in GIS and Remote Sensing"""
 
 +++
