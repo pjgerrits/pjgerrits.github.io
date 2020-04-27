@@ -11,5 +11,5 @@ header:
   caption: ""
   image: ""
 ---
+Posts can be shared and used using the following terms: 
 https://creativecommons.org/licenses/by-sa/4.0/
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
