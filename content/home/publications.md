@@ -66,13 +66,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<div style="text-align: justify">
 
 * ***2020*** - Kabadayı, <u>**Gerrits**</u>, Boykov, Bridging the gap between pre-census and census era historical data: Devising a geo-sampling model to analyse agricultural production in the long-run for Southeast Europe and Anatolia. UCGIS symposium 2019 Conference Proceedings. International Journal of Humanities and Arts Computing (IJHAC), 2020
 
 * ***2019*** - Kabadayi, <u>**Gerrits**</u>, Koçak, Özkan, ‘A Geo-Spatial, Multi-Modal Ottoman Transport Network in 1899,’ in Chris Roosevelt ed., 12th Koç University, Research Center for Anatolian Civilizations International Annual Symposium: Spatial Webs Proceedings, Istanbul, 2018.
 
 * ***2019*** - Gerritsen, Özbal, <u>**Gerrits**</u>, A Red Floor at Neolithic Barcın Höyük: Special or Not?
-
+<div style="text-align: justify"> </div>
 <!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->

@@ -68,6 +68,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<div style="text-align: justify">
 
 * *September 2019* - <u>**Gerrits**</u> ENCHOS III - Workshop, Automatic feature extraction and geographical information retrieval from historical maps, Istanbul 2019.
 
@@ -91,7 +92,7 @@ Sampling Model to Analyse Micro Level Historical Agricultural Production Data fo
 * *May 2017* - <u>**Gerrits**</u> Brave New Worlds: Digital Technologies & the Study of the Past in Anatolia, the Mediterranean, and the Near East. Koç University Graduate Symposium. Usage of GIS in Neolithic Anatolia: An intra-settlement analysis of use and abandonment phases at Barcın Höyük. Istanbul, 2017.
 
 * *December 2016* - <u>**Gerrits**</u> Barcın Höyük excavation symposium. Overview of the Barcin Höyük AIS (Archaeological Information System; contributions from 2013 to 2016). Istanbul, 2016.
-
+</div>
 <figcaption>
 Below depicts a fully functional 2.5D model as well as a digital elevation model of  Barcın Höyük. This model was created for the Barcın Höyük excavation symposium in 2016. It is based on top and bottom elevations of excavated contexts, during 7 years of the project. The model was created by using ArcScene, CityEngine Webviewer and runs on OpenGL. <a href="https://bit.ly/3bRYrxG">Open the full viewer</a> for better controls and guidelines.</figcaption>
 
