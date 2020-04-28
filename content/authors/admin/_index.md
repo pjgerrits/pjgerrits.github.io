@@ -33,7 +33,7 @@ education:
   - course: MA in Archaeology and Cultural Heritage Managment
     institution: Koç University, Istanbul
     year: 2018
-  - course: BA in Archaeology with a specialisation in GIS and Remote Sensing techniques
+  - course: BA in Archaeology with a specialisation in GIS and Remote Sensing
     institution: Vrije Universiteit, Amsterdam
     year: 2015
 
