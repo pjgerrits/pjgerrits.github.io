@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ku.edu.tr/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Geographic Information Science, Archaeology,  Network Analysis and Computational Methods in Humanities.
 
 interests:
 - Geospatial applications in Humanities
