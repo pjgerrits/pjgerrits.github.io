@@ -1,5 +1,5 @@
 ---
-title: "Presentation at Digital Humanities Conference 2019, Utrecht"
+title: "Digital Humanities Conference 2019, Utrecht"
 authors:
 - M. Erdem Kabadayi
 - Grigor Boykov
