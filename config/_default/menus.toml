@@ -24,7 +24,7 @@
   weight = 55
 
 [[main]]
-  name = "Featured"
+  name = "highlighted works"
   url = "#featured"
   weight = 35
 
