@@ -9,11 +9,11 @@ title = "Petrus J. Gerrits"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://pgerrits.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "Please see terms at the bottom of the page for copyright"
 
 ############################
 ## Advanced options below ##
