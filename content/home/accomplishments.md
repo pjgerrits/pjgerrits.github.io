@@ -23,9 +23,9 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org"
   title = "TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
   url = "https://towardsdatascience.com/course-review-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-5ef1a85042b2"
-  certificate_url = ""
+  certificate_url = "https://coursera.org/share/44636b4eb20987dfe1aff1f3f79cb613"
   date_start = "2020-04-06"
-  date_end = "2020-04-30"
+  date_end = "2020-05-20"
   description = ""
 
 [[item]]
