@@ -41,7 +41,7 @@ sections:
   label: Content
   create: all
   match: "*"
-upload_dir: static/img
+upload_dir: static
 public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
