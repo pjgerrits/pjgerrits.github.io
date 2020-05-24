@@ -27,13 +27,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/talk
-  label: Events
-  create: all
-  match: "**/*"
-  templates:
-  - event
-- type: directory
   path: content/publication
   label: Publications
   create: all
@@ -45,7 +38,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content
-  label: Pages
+  label: content
   create: all
   match: "*"
 upload_dir: static/img
