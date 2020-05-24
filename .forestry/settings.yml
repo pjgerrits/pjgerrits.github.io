@@ -16,7 +16,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/post
-  label: Blog posts
+  label: Post
   create: all
   match: "**/*"
   templates:
@@ -36,6 +36,11 @@ sections:
 - type: directory
   path: content/publication
   label: Publications
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/talk
+  label: Talk
   create: all
   match: "**/*"
 - type: directory
