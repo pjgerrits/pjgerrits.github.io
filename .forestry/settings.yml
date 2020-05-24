@@ -38,7 +38,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content
-  label: content
+  label: Content
   create: all
   match: "*"
 upload_dir: static/img
