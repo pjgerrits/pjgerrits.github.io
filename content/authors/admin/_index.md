@@ -23,8 +23,8 @@ bio: My research interests include Geographic Information Science, Archaeology, 
 interests:
 - Geospatial data science in Humanities
 - Computational Methods in Archaeology and History
-- Geospatial Content Management Systems
 - Photogrammetry and 3D Modelling
+- Geospatial Content Management Systems
 
 education:
   courses:
@@ -73,11 +73,11 @@ user_groups:
 <div style="text-align: justify"> 
 
 Hello and welcome to my personal website! Here you can find more information about my ongoing academic research. 
-My main academic interest is in the use of geospatial data science and computational applications in digital humanities, cultural heritage management and archaeology. 
+My main academic interest is in the use of <span style="color: #4caf50;"> *__geospatial data science__* </span> and computational applications in <span style="color: #4caf50;"> *__digital humanities, cultural heritage management and archaeology.__* </span>
 
-I was first introduced with geospatial applications in humanities in 2011, during my undergraduate at the Vrije Universiteit and Wageningen University in the Netherlands. Aferwards, I obtained my graduate degree at Koç Unversity in Istanbul. Here, I became interested in Turkey's rich history and archaeological heritage, from modern times to the Neolithic. 
+I was first introduced to the significant role of geospatial applications in 2011, during my undergraduate at the <span style="color: #4caf50;"> *__Vrije Universiteit and Wageningen University__* </span> in the Netherlands. Afterwards, I obtained my graduate degree at <span style="color: #4caf50;"> *__Koç Unversity__* </span> in Istanbul, where I utilized my technical skills to help document and analyse Turkey's rich history and archaeological cultural heritage, from modern times to the Neolithic. 
 
-Over the years I have broadened and diversified my skills and interests by teaching GIS (Geographic Information Systems) in archaeology and history, organize summer schools, work in research projects, as well as by participating in a ERASMUS+ capacity building project in Iraq. 
+Over the years I have broadened and diversified my skills and interests by *teaching* <span style="color: #4caf50;"> *__GIS (Geographic Information Systems)__* </span> in archaeology and history, *organize* <span style="color: #4caf50;"> *__summer schools,__* </span> *work in several* <span style="color: #4caf50;"> *__research projects,__* </span> as well as by *participating in a* <span style="color: #4caf50;"> *__ERASMUS+ capacity building project__* </span> in Kufa, Iraq. 
 
-Most recently, I have been employed as a full-time lead Geospatial data scientist and  Research Fellow in an ERC-Funded Horizon 2020 Research Project, [UrbanOccupationsOETR](https://urbanoccupations.ku.edu.tr/) at Koç University. Here, my ongoing research is aimed at projects that incorporate Computer Vision/Machine Learning for feature extraction of Historical Maps, Network Analysis and the use of geospatial mobile applications for academic public outreach activities. 
+Most recently, I have been employed as a full-time lead geospatial data scientist and  Research Fellow in an <span style="color: #4caf50;"> *__ERC-Funded Horizon 2020 Research Project__* </span> [(UrbanOccupationsOETR)](https://urbanoccupations.ku.edu.tr/) at Koç University. Here, I developed the geographic content management system of the project, as well as working on research projects that incorporate <span style="color: #4caf50;"> *__Computer Vision/Machine Learning__* </span> for feature extraction of Historical Maps, <span style="color: #4caf50;"> *__Network Analysis__* </span> and the use of <span style="color: #4caf50;"> *__geospatial mobile survey applications__* </span> for academic public outreach activities. 
 </div>

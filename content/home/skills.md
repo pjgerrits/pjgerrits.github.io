@@ -22,7 +22,7 @@ subtitle = ""
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Database Managment"
+  name = "Database Management"
 
 [[feature]]
   icon = "chart-line"
@@ -81,14 +81,14 @@ subtitle = ""
   name = "Adobe Photoshop"
 
 [[feature]]
-  icon = "windows"
-  icon_pack = "fab"
-  name = "Windows / Microsoft Office"
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "Agisoft Metashape"
 
 [[feature]]
   icon = "language"
   icon_pack = "fas"
-  name = "Dutch, English, German, Turkish"
+  name = "Dutch, English, German, Turkish, French"
 
 
 +++
