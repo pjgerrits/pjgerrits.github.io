@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include Geographic Information Science, Archaeology,  Network Analysis and Computational Methods in Humanities.
 
 interests:
-- Geospatial applications in Humanities
+- Geospatial data science in Humanities
 - Computational Methods in Archaeology and History
-- Spatial Information Retrieval
+- Geospatial Content Management Systems
+- Photogrammetry and 3D Modelling
 
 education:
   courses:
@@ -72,9 +73,11 @@ user_groups:
 <div style="text-align: justify"> 
 
 Hello and welcome to my personal website! Here you can find more information about my ongoing academic research. 
-I have a broad interest in geospatial and computational applications in history, cultural heritage management and archaeology. 
+My main academic interest is in the use of geospatial data science and computational applications in digital humanities, cultural heritage management and archaeology. 
 
-My first introduction to geospatial applications for humanities was in 2011, during my undergraduate at the Vrije Universiteit and Wageningen University in the Netherlands. Since then, I have broadened and diversified my skills and interests in several research projects. Having completed my graduate studies in Istanbul at Koç Unversity, I became interested and gained more experience on Turkey's rich history and archaeology, from modern times to the Neolithic. 
+I was first introduced with geospatial applications in humanities in 2011, during my undergraduate at the Vrije Universiteit and Wageningen University in the Netherlands. Aferwards, I obtained my graduate degree at Koç Unversity in Istanbul. Here, I became interested in Turkey's rich history and archaeological heritage, from modern times to the Neolithic. 
 
-Most recently, I have been employed as a full-time Research Fellow and lead GIS Coordinator in a ERC-Funded Horizon 2020 Research Project, UrbanOccupationsOETR at Koç University. Here,  my ongoing research is aimed at projects that incorporate Computer Vision/Machine Learning for feature extraction of Historical Maps, Network Analysis and the use of geospatial mobile applications for academic public outreach activities. 
+Over the years I have broadened and diversified my skills and interests by teaching GIS (Geographic Information Systems) in archaeology and history, organize summer schools, work in research projects, as well as by participating in a ERASMUS+ capacity building project in Iraq. 
+
+Most recently, I have been employed as a full-time lead Geospatial data scientist and  Research Fellow in an ERC-Funded Horizon 2020 Research Project, [UrbanOccupationsOETR](https://urbanoccupations.ku.edu.tr/) at Koç University. Here, my ongoing research is aimed at projects that incorporate Computer Vision/Machine Learning for feature extraction of Historical Maps, Network Analysis and the use of geospatial mobile applications for academic public outreach activities. 
 </div>

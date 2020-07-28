@@ -17,22 +17,68 @@ subtitle = ""
 [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
-  name = "Geographic Information Systems: ArcGIS / QGIS"
+  name = "Geographic Information Systems (ArcGIS Pro / QGIS)"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "SQL Database Managment"
-  
+  name = "Database Managment"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Dynamic Dashboards"
+
+[[feature]]
+  icon = " "
+  icon_pack = ""
+  name = " "
+
+[[feature]]
+  icon = " "
+  icon_pack = ""
+  name = " "
+
+[[feature]]
+  icon = " "
+  icon_pack = " "
+  name = " "
+
+
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "code"
   icon_pack = "fas"
-  name = "Dynamic Dashboards"
+  name = "SQL"
+
+[[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML"
+
+[[feature]]
+  icon = " "
+  icon_pack = ""
+  name = " "
+
+[[feature]]
+  icon = " "
+  icon_pack = ""
+  name = " "
+
+[[feature]]
+  icon = " "
+  icon_pack = " "
+  name = " "
+
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Adobe Photoshop"
 
 [[feature]]
   icon = "windows"
