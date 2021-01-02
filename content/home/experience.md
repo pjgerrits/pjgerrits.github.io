@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "PhD researcher"
+  company = "University of Glasgow"
+  company_url = "https://www.gla.ac.uk/"
+  location = "Glasgow"
+  date_start = "2020-12-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Database Management
+  * Training members in the use of GIS software and applications
+  * Analysing and extracting spatial data
+[[experience]]
   title = "Research Fellow and GIS Specialist"
   company = "Urbanoccupations OETR at Koc University"
   company_url = "https://urbanoccupations.ku.edu.tr"
