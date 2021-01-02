@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-12-01"
   date_end = ""
   description = """
-  Responsibilities include: """
+  """
 [[experience]]
   title = "Research Fellow and GIS Specialist"
   company = "Urbanoccupations OETR at Koc University"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   * Database Management
   * Training members in the use of GIS software and applications
   * Analysing and extracting spatial data
-  """
+
 [[experience]]
   title = "Master of Arts"
   company = "Koç University"
