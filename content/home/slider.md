@@ -15,6 +15,16 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+[[item]]
+  title = "UrbanOccupationsOETR Research Project"
+  content = "+3 Years experience in Digital Humanities Project at Koç University"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "EU_ERC_KU_Merged_Logo.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
 [[item]]
   title = "Barcın Höyük Excavation"
   content = "Development of a 2.5D Spatiotemporal model"
@@ -33,15 +43,6 @@ height = ""
   cta_url = "https://pgerrits.com/publication/2016/barcin2016_cityengine/"
   cta_icon_pack = "fas"
   cta_icon = "external-link-square-alt"
-
-[[item]]
-  title = "UrbanOccupationsOETR Research Project"
-  content = "+3 Years experience in Digital Humanities Project at Koç University"
-  align = "center"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "EU_ERC_KU_Merged_Logo.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Right"
