@@ -33,7 +33,7 @@ height = ""
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "BH_model1.jfif"  # Image path relative to your `static/img/` folder.
+  overlay_img = "BH_model1.PNG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -45,11 +45,11 @@ height = ""
   cta_icon = "external-link-square-alt"
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "PhD student at University of Glasgow"
+  content = "Tentative title: Geo-demographic Dynamics of Settlements Using Historical Maps"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "university-of-glasgow-280.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
