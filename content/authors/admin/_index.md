@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Fellow and GIS Specialist
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Koç University
-  url: "https://www.ku.edu.tr/en/"
+- name: University of Glasgow
+  url: "https://www.gla.ac.uk/colleges/scienceengineering/research/researchthemes/datascience/geospatialdatascience/#"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Geographic Information Science, Archaeology,  Network Analysis and Computational Methods in Humanities.
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Geospatial Data Science
     institution: University of Glasgow
-    year: 2020
+     year: 2020
   - course: MA in Archaeology and Cultural Heritage Managment
     institution: Koç University, Istanbul
     year: 2018
