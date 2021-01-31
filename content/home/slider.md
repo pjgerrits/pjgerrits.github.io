@@ -17,8 +17,8 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "UrbanOccupationsOETR Research Project"
-  content = "+3 Years experience in Digital Humanities Project at Koç University"
+  title = "UrbanOccupationsOETR ERC-funded  Research Project"
+  content = "+3 Years experience as GIS Specialist and Research Fellow at Koç University"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -46,7 +46,7 @@ height = ""
 
 [[item]]
   title = "PhD student at University of Glasgow"
-  content = "Tentative title: Geo-demographic Dynamics of Settlements Using Historical Maps"
+  content = "Tentative research title: Geo-demographic Dynamics of Settlements Using Historical Maps"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
