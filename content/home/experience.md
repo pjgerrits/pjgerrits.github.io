@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "https://urbanoccupations.ku.edu.tr"
   location = "Istanbul"
   date_start = "2017-01-01"
-  date_end = ""
+  date_end = "2020-12-01"
   description = """
   Responsibilities include:
   
