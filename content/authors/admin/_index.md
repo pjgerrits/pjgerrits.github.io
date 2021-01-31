@@ -27,10 +27,9 @@ interests:
 - Geospatial Content Management Systems
 
 education:
-  courses:
-   - course: PhD in Geospatial Data Science
-     institution: University of Glasgow
-     year: 2020
+  - course: PhD in Geospatial Data Science
+    institution: University of Glasgow
+    year: 2020
   - course: MA in Archaeology and Cultural Heritage Managment
     institution: Koç University, Istanbul
     year: 2018
