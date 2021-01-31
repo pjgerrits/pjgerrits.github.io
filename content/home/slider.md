@@ -32,7 +32,7 @@ height = ""
   cta_label = "Click here for the working model"
   cta_url = "https://pgerrits.com/publication/2016/barcin2016_cityengine/"
   cta_icon_pack = "fas"
-  cta_icon = "Button CTA"
+  cta_icon = "external-link-square-alt"
 
 [[item]]
   title = "UrbanOccupationsOETR Research Project"
