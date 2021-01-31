@@ -18,7 +18,7 @@ height = ""
 [[item]]
   title = "Barcın Höyük Excavation"
   content = "Development of a 2.5D Spatiotemporal model"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -29,18 +29,18 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Click for working model"
-  cta_url = "https://bit.ly/3bRYrxG"
+  cta_label = "Click here for the working model"
+  cta_url = "https://pgerrits.com/publication/2016/barcin2016_cityengine/"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "Button CTA"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = "UrbanOccupationsOETR Research Project"
+  content = "+3 Years experience in Digital Humanities Project at Koç University"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "EU_ERC_KU_Merged_Logo.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
