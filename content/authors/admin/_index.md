@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+   - course: PhD in Geospatial Data Science
+     institution: University of Glasgow
+     year: 2020
   - course: MA in Archaeology and Cultural Heritage Managment
     institution: Koç University, Istanbul
     year: 2018
