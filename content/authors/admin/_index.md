@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include Geographic Information Science, Archaeology,  Network Analysis and Computational Methods in Humanities.
 
 interests:
-- Geospatial data science in Humanities
+- Geospatial Data Science in Humanities
 - Computational Methods in Archaeology and History
 - Photogrammetry and 3D Modelling
 - Geospatial Content Management Systems
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Geospatial Data Science
     institution: University of Glasgow
-     year: 2020
+    year: 2020
   - course: MA in Archaeology and Cultural Heritage Managment
     institution: Koç University, Istanbul
     year: 2018
