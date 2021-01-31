@@ -33,7 +33,6 @@ height = ""
   cta_url = "https://bit.ly/3bRYrxG"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
-<iframe allowfullscreen="true" width="100%" height="15%" frameborder="0" scrolling="no" marginheight="10" marginwidth="10" src="https://www.arcgis.com/apps/CEWebViewer/viewer.html?&3dWebScene=2b3c7956e69146e08f2308e0df4732e1&view=466138.19,1385.2,-4459501.85,466138.22,2114.89,-4459500.58,0.96&lyr=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1&wkid=2320&v=2&reducedUI"></iframe>
 
 [[item]]
   title = "Left"
