@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Glasgow
-  url: "https://www.gla.ac.uk/colleges/scienceengineering/research/researchthemes/datascience/geospatialdatascience/#"
+  url: "https://www.gla.ac.uk/colleges/scienceengineering/research/researchthemes/datascience/geospatialdatascience/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Geographic Information Science, Archaeology,  Network Analysis and Computational Methods in Humanities.
